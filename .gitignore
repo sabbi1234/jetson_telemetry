@@ -1,0 +1,20 @@
+# ROS2 build artifacts
+build/
+install/
+log/
+
+# Colcon
+.colcon/
+
+# C++
+*.o
+*.so
+*.a
+
+# CMake
+
+# VSCode
+.vscode/
+
+# Linux
+*.swp
